@@ -7,13 +7,15 @@ function Tip_calculator() {
             <div className="wrapper">
                 <div className="upper">
                     <form>
-                        <label>bill</label>
+                        <label>bill</label><br></br>
                         <input type="number" placeholder="0.00"/>
                     </form>
+                    <br></br>
                 </div>
                 <div className="middle">
-                        <label>Tip</label>
+                        <label>Tip</label><br></br>
                         <input type="number" placeholder="0" />
+                        <br></br>
                 </div>
                 <div className="bottom">
                     <div className="bottom-left">
